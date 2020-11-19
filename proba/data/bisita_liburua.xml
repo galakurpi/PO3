@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bisitak SYSTEM "bisita_liburua.dtd">
+<bisitak azkenid="b0">
+  <!--  <bisita id="b">
+        <data> </data>
+        <izena> </izena>
+        <iruzkina> </iruzkina>
+        <eposta> </eposta>
+        <eposta> </eposta>
+    </bisita>-->
+<bisita><data>Wednesday</data><izena>df</izena><iruzkina>df</iruzkina><eposta>df</eposta></bisita></bisitak>
